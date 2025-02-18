@@ -1,0 +1,5 @@
+Branch_ID,Dealer_ID,Model_ID,Revenue,Units_Sold,Date_ID,Day,Month,Year,BranchName,DealerName,Product_Name
+XYZ9726,XYZ0063,ZYX-M13,77777777,10,02-01-2025,1,1,2025,Nilu Ranger Motors,Tata do Brasil Motors,Surprise
+XYZ0000,XYZ1111,ZYX-M14,55555555,10,02-01-2025,1,1,2025,Puma Motors,Ford Australia Motors,Jeep
+XYZ0002,XYZ1113,ZYX-M16,66666666,5,02-01-2025,1,1,2025,Ana  Motors,Tata India Motors,Jeep
+XYZ0003,XYZ1114,ZYX-M18,88888888,5,02-01-2025,1,1,2025,Harsh  Motors,Yolo India Motors,Wagon
